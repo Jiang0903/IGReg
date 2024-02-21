@@ -1,0 +1,14 @@
+.idea
+.vscode
+build
+output
+*.egg-info
+*.so
+**/__pycache__
+weights/*
+data/*
+ModelNet
+backup
+miscellaneous
+weight
+paper
