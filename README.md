@@ -83,13 +83,13 @@ python eval.py  --test_epoch=EPOCH --benchmark=3DMatch --method=lgr
 You can also use the bash `experiments/3dmatch_IGReg/eval_all.sh` for testing.
 
 
-We also provide pretrained weights in `weight`, use the following command to test the pretrained weights.
+We also provide pretrained weights in `weight` directory, and you can use the following command to test the pretrained weights.
 
 
 ```bash
 cd experiments/3dmatch_IGReg
 export CUDA_VISIBLE_DEVICES=0
-python test.py --snapshot=../../weights/3dmatch.pth.tar --benchmark=3DMatch
+python test.py --snapshot=../../weight/3dmatch.pth.tar --benchmark=3DMatch
 python eval.py --benchmark=3DMatch --method=lgr
 ```
 
