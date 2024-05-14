@@ -1,8 +1,11 @@
 # IGReg: Image-Geometry-Assisted Point Cloud Registration via Selective Correlation Fusion
 
-This is the official repository for  `IGReg: Image-Geometry-Assisted Point Cloud Registration via Selective Correlation Fusion`
+### This is the official repository for  [IGReg: Image-Geometry-Assisted Point Cloud Registration via Selective Correlation Fusion](https://ieeexplore.ieee.org/abstract/document/10443547).
 
-Authors: [Zongyi Xu](https://scholar.google.com.hk/citations?user=PUseiVAAAAAJ), Xinqi Jiang, Xinyu Gao, Rui Gao, [Changjun Gu](https://scholar.google.com.hk/citations?user=TepTtrQAAAAJ), [Qianni Zhang](https://scholar.google.com.hk/citations?user=XR6C9BoAAAAJ), [Weisheng Li](https://scholar.google.com.hk/citations?user=M17E3HEAAAAJ) and [Xinbo Gao](https://scholar.google.com.hk/citations?user=VZVTOOIAAAAJ).
+
+> IGReg: Image-Geometry-Assisted Point Cloud Registration via Selective Correlation Fusion  
+> [Zongyi Xu](https://scholar.google.com.hk/citations?user=PUseiVAAAAAJ), Xinqi Jiang, Xinyu Gao, Rui Gao, [Changjun Gu](https://scholar.google.com.hk/citations?user=TepTtrQAAAAJ), [Qianni Zhang](https://scholar.google.com.hk/citations?user=XR6C9BoAAAAJ), [Weisheng Li](https://scholar.google.com.hk/citations?user=M17E3HEAAAAJ) and [Xinbo Gao](https://scholar.google.com.hk/citations?user=VZVTOOIAAAAJ)<sup>\*</sup>  
+> IEEE Transactions on Multimedia 2024  
 
 ## Introduction
 
@@ -122,9 +125,15 @@ python eval.py
 
 
 ## Citation
-
+If you find this code useful for your research, please use the following BibTeX entry.
 ```bibtex
-To be released.
+@article{xu2024igreg,
+  title={IGReg: Image-Geometry-Assisted Point Cloud Registration via Selective Correlation Fusion},
+  author={Xu, Zongyi and Jiang, Xinqi and Gao, Xinyu and Gao, Rui and Gu, Changjun and Zhang, Qianni and Li, Weisheng and Gao, Xinbo},
+  journal={IEEE Transactions on Multimedia},
+  year={2024},
+  publisher={IEEE}
+}
 ```
 
 ## Acknowledgements

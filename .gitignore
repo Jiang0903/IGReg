@@ -10,5 +10,5 @@ data/*
 ModelNet
 backup
 miscellaneous
-weight
+weight/
 paper
