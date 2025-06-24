@@ -42,7 +42,7 @@ We also provide [the pretrained weight of IGReg](https://drive.google.com/file/d
 
 ### Data preparation
 
-We put the point clouds, RGB images and camera information of 3DMatch dataset together. The point cloud files were the same as [PREDATOR](https://github.com/prs-eth/OverlapPredator). Please download the preprocessed dataset from [here](https://drive.google.com/file/d/1-2kIOYYWeLHIn_mpRN0qP5iNT2uxofWF/view?usp=sharing) and put into the `data` directory. The data should be organized as follows:
+We put the point clouds, RGB images and camera information of 3DMatch dataset together. The point cloud files were the same as [PREDATOR](https://github.com/prs-eth/OverlapPredator). Please download the preprocessed dataset from [here](https://drive.google.com/file/d/1rkajJTOUgmx-tlchaWEpxMaQcLe3gWye/view?usp=sharing) and put into the `data` directory. The data should be organized as follows:
 
 ```text
 --data--3DMatch--metadata
